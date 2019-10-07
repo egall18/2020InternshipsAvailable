@@ -1,17 +1,10 @@
 
 # Summer 2020 Internships
-Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration.
+Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields.
 
 > Sites used to find internships include LinkedIn, Indeed, Glassdoor, and AngelList (startups).
 Summer 2019 Tech Internships!
 > Positions are geared towards Computer Science majors who may have intersectional interests such as Design, > Finance, Research, etc. All positions are open to anyone enrolled in a Bachelor's degree program.
-
-To contribute:
- 1. Fork repository
- 2. Edit README.md *(I used the [StackEdit Markdown Editor](https://stackedit.io/app#))*
- 3. Open a pull request!
-
- **Note**: Locations may potentially span globally.
 
 ## The List
 
