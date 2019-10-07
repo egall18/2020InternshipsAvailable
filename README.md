@@ -6,17 +6,19 @@ Keep track of internships for Summer 2020 for undergraduates interested in tech,
 Summer 2019 Tech Internships!
 > Positions are geared towards Computer Science majors who may have intersectional interests such as Design, > Finance, Research, etc. All positions are open to anyone enrolled in a Bachelor's degree program.
 
+>The top 4 are the ones Sathya gave us.
+
 ## The List
 
 | Name  |  Location |  Application Period |  Notes |
 |---|---|---|---|
-|  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
-|  [Visa](https://jobs.smartrecruiters.com/Visa/743999694381436-intern-sr-software-engineer-masters-degree-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9) |  Multiple locations |  Present | Min. GPA 3.0 |
 |  [Google STEP](https://careers.google.com/jobs/results/?company=Google&company=YouTube&employment_type=INTERN&jlo=en_US&q=STEP) |   |  Present |   |
 |  [Facebook University](https://www.facebook.com/careers/FBUEngineering) |   |  Present |   |
 |  [Explore Microsoft](https://careers.microsoft.com/us/en/job/650947/Internship-Opportunities-for-Students-Explore-Microsoft-Internship) |   |  Present |   |
 |  [Twitter Academy](https://careers.twitter.com/en/university.html) |   |  Present |   |
 |  [Akuna](https://akunacapital.com/careers#careers) |  Chicago |  Present |  Juniors+, several different roles |
+|  [IMC Trading](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Quant-Trader-Intern---Summer-2020_REQ-00550) |  Chicago |  Present | Min. GPA 3.5, prefers Python programming skills  |
+|  [Visa](https://jobs.smartrecruiters.com/Visa/743999694381436-intern-sr-software-engineer-masters-degree-multiple-locations?trid=623f64f4-c657-499b-989f-16ab0ccee0d9) |  Multiple locations |  Present | Min. GPA 3.0 |
 |  [Fidelity Investments](https://jobs.fidelity.com/ShowJob/Id/580980/Summer-2020-Technical-Internship-Program/) |  US-NC-Durham, US-NH-Merrimack, US-MA-Boston, US-RI-Smithfield | Present  |   |
 |  [JP Morgan Chase](https://careers.jpmorgan.com/us/en/students/programs/software-engineer-summer#careers-section7) |  Asia: Singapore, Europe, Middle East, US: IL, OH, TX, NY, DE, TX, CA, WA, FL| Present  |  Juniors+, All JP Morgan Chase positions open including IB/Quant/Data Analytics |
 |  [American Express](https://jobs.americanexpress.com/jobs?keywords=Internship) | Multiple Cities | Present  |  Sophomores+ |
